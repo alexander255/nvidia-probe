@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=NVidia Probe
+Comment=Finally hotplug your display
+Exec=nvidia-probe --loop
+Terminal=false
+Type=Application
