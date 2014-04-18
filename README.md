@@ -26,3 +26,8 @@ Copy `nvidia-probe` utility (in the `bin` folder) somewhere on your $PATH (i.e.:
 99,9% of this utility are taken from NVidias `nivida-settings` utility. The only thing I did was too write the main.c file...
 
 
+=======
+nvidia-probe
+============
+
+NVidia Probe
