@@ -23,11 +23,4 @@ Copy `nvidia-probe` utility (in the `bin` folder) somewhere on your $PATH (i.e.:
 
 # Credits
 
-99,9% of this utility are taken from NVidias `nivida-settings` utility. The only thing I did was too write the main.c file...
-
-
-=======
-nvidia-probe
-============
-
-NVidia Probe
+99,9% of the code used in this utility were taken from NVidias `nivida-settings` utility. The only thing I did was too write the main.c file...
